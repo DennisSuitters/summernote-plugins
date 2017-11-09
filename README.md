@@ -9,4 +9,4 @@ For those that already know how to add, use, and create plugins, I urge you to v
 
 To get started visit our [wiki](https://github.com/DiemenDesign/summernote-plugins/wiki)
 
-<iframe src="http:www/google.com/" width="100" height="400"></iframe>
+&lt;iframe src="http:www/google.com/" width="100" height="400"&gt;&lt;/iframe&gt;
