@@ -8,3 +8,8 @@ This repository will hopefully help to dispell, and make understanding how to ad
 For those that already know how to add, use, and create plugins, I urge you to visit [Awesome Summernote](https://github.com/summernote/awesome-summernote), a repository of links to some great plugins, and other examples.
 
 To get started visit our [wiki](https://github.com/DiemenDesign/summernote-plugins/wiki)
+{::nomarkdown}
+
+<iframe src="http:www/google.com/" width="100" height="400"></iframe>
+
+{:/}
