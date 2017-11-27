@@ -1,4 +1,4 @@
-### summernote-plugins
+### summernote-plugins a Guide
 Step by Step Guide on adding and creating Plugins for Summernote
 
 There is a lot of confusion on how to not only add plugins and make them useable within the Summernote Editor, but also how to create them, and how to interact with data in the editor.
